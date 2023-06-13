@@ -2,7 +2,7 @@
 
 Meu nome é José Carlos Zanzarini
 
-Estou estudando na Alura
+Estou estudando na [Alura](www.alura.com.br)
 
 Estou aprendendo linguagens de programação
 
